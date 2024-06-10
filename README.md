@@ -72,6 +72,9 @@ opencv 의 사용이 숙련되지 않았기 때문에 GPT 를 활용해서 코�
 
 
 하지만 이렇게 해도 문제는 해결되지 않았는데, 구글링을 해보고 GPT 한테도 물어본 결과 명령을 보내는 부분에서 버퍼가 쌓여서 끊기는 현상이 생기고 있다고 생각했다. 그래서 python 코드에 명령을 한번 보내면 버퍼 자체를 초기화 시키는 코드 한줄을 넣었더니 끊기지 않고 정상적으로 작동 되는 모습을 볼 수 있었다.
+
 ![image](https://github.com/HeaderHix/DIY_AGV/assets/166344986/bb36a8ca-7aaa-4f96-ba67-9899fe1cc64b)
+![image](https://github.com/HeaderHix/DIY_AGV/assets/166344986/a80bbad4-2221-4ab3-81ce-b20ef054d26b)
+![image](https://github.com/HeaderHix/DIY_AGV/assets/166344986/928b6797-7509-4c89-8b5a-684715de7d0f)
 
 
