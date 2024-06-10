@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/user/.arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/user/.arduino15/packages/arduino/hardware/avr/1.8.6/variants/mega"
+  },
+  {
+    "Sourcefile": "/home/user/arduino/build/sketch/arduino.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
